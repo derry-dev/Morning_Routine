@@ -1,3 +1,5 @@
+library(shiny)
+
 fluidPage(
   fluidRow(
     column(2),
